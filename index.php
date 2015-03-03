@@ -59,6 +59,11 @@
 					prependTo:'#navigation-menu6'
 				});
 			});
+            $(function(){
+                $('#menu7').slicknav({
+                    prependTo:'#navigation-menu7'
+                });
+            });
 			$(function () {
 
 		      // Slideshow 4
@@ -199,23 +204,23 @@
 						<div data-role="collapsible-set">	
 							<div data-role="collapsible" data-theme="<?php echo $theme ?>" data-content-theme="<?php echo $theme ?>" data-iconpos="right" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d">
 							   <h3>Home</h3>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">About Us</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page7" data-transition="<?php echo $transitionefect ?>">About Us</a>
 							</div>
 							<div data-role="collapsible" data-theme="<?php echo $theme ?>" data-content-theme="<?php echo $theme ?>" data-iconpos="right" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d">
 							   <h3>Services</h3>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#seopage" data-transition="<?php echo $transitionefect ?>">Individual Psychotherapy</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page3" data-transition="<?php echo $transitionefect ?>">Marital Therapy</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page4" data-transition="<?php echo $transitionefect ?>">Family Therapy</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page7" data-transition="<?php echo $transitionefect ?>">Individual Psychotherapy</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page7" data-transition="<?php echo $transitionefect ?>">Marital Therapy</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page7" data-transition="<?php echo $transitionefect ?>">Family Therapy</a>
 							</div>
 						</div>						
 					
 				
 				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-					<div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page5" data-transition="<?php echo $transitionefect ?>">Psychological Testing</a>
+					<div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page7" data-transition="<?php echo $transitionefect ?>">Psychological Testing</a>
 					</div>
 				</div>
 				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-					<div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page6" data-transition="<?php echo $transitionefect ?>">ADHD Resources</a>
+					<div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page7" data-transition="<?php echo $transitionefect ?>">ADHD Resources</a>
 					</div>
 				</div>
 				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
@@ -288,12 +293,12 @@
 					<section id="navigation-menu-contact">
 							<ul id="menu-contact">
 								<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
-								<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">About Us</a></li>
-								<li><a href="#seopage" data-transition="<?php echo $transitionefect ?>">Individual Psychotherapy</a></li>
-								<li><a href="#page3" data-transition="<?php echo $transitionefect ?>">Marital Therapy</a></li>
-								<li><a href="#page4" data-transition="<?php echo $transitionefect ?>">Family Therapy</a></li>
-								<li><a href="#page5" data-transition="<?php echo $transitionefect ?>">Psychological Testing</a></li>
-								<li><a href="#page6" data-transition="<?php echo $transitionefect ?>">ADHD Resources</a></li>
+								<li><a href="#page7" data-transition="<?php echo $transitionefect ?>">About Us</a></li>
+								<li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Individual Psychotherapy</a></li>
+								<li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Marital Therapy</a></li>
+								<li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Family Therapy</a></li>
+								<li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Psychological Testing</a></li>
+								<li><a href="#page7" data-transition="<?php echo $transitionefect ?>">ADHD Resources</a></li>
 							</ul>
 					</section>
 					<div>	
@@ -566,6 +571,37 @@
 				
 		</div>
 <!-- page 6 ADHD Resources///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+
+        <!-- page 7 Preview ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+
+        <div data-role="page" id="page7" data-theme="<?php echo $theme ?>">
+            <div data-role="main" class="ui-content" data-theme="<?php echo $theme ?>">
+                <div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
+                    <section id="navigation-menu7">
+                        <ul id="menu7" class="menu">
+                            <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
+                            <li><a href="#page7" data-transition="<?php echo $transitionefect ?>">About Us</a></li>
+                            <li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Individual Psychotherapy</a></li>
+                            <li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Martial Therapy</a></li>
+                            <li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Family Therapy</a></li>
+                            <li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Psychological Testing</a></li>
+                            <li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
+                        </ul>
+                    </section>
+
+                    <div>
+                        <p>This is only a <b>PREVIEW</b> version of your Mobile Website.</p>
+                        <hr/>
+                        <p>Please contatact our official Sales Representative for <b>Full Functional Version.</b></p>
+
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+        <!-- page 7 preview ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 
 <!--page succes ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 		<div id="succes" data-role="page" data-theme="<?php echo $theme ?>" data-dialog="true">
