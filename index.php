@@ -252,11 +252,11 @@
 					<section id="navigation-menu">
 						<ul id="menu">
 							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
-							<li><a href="#seopage" data-transition="<?php echo $transitionefect ?>">Individual Psychotherapy</a></li>
-							<li><a href="#page3" data-transition="<?php echo $transitionefect ?>">Marital Therapy</a></li>
-							<li><a href="#page4" data-transition="<?php echo $transitionefect ?>">Family Therapy</a></li>
-							<li><a href="#page5" data-transition="<?php echo $transitionefect ?>">Psychological Testing</a></li>
-							<li><a href="#page6" data-transition="<?php echo $transitionefect ?>">ADHD Resources</a></li>
+							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Individual Psychotherapy</a></li>
+							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Marital Therapy</a></li>
+							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Family Therapy</a></li>
+							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Psychological Testing</a></li>
+							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">ADHD Resources</a></li>
 							<li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact Us</a></li>
 						</ul>
 					</section>
@@ -293,12 +293,12 @@
 					<section id="navigation-menu-contact">
 							<ul id="menu-contact">
 								<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
-								<li><a href="#page7" data-transition="<?php echo $transitionefect ?>">About Us</a></li>
-								<li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Individual Psychotherapy</a></li>
-								<li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Marital Therapy</a></li>
-								<li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Family Therapy</a></li>
-								<li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Psychological Testing</a></li>
-								<li><a href="#page7" data-transition="<?php echo $transitionefect ?>">ADHD Resources</a></li>
+								<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">About Us</a></li>
+								<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Individual Psychotherapy</a></li>
+								<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Marital Therapy</a></li>
+								<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Family Therapy</a></li>
+								<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Psychological Testing</a></li>
+								<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">ADHD Resources</a></li>
 							</ul>
 					</section>
 					<div>	
@@ -580,11 +580,11 @@
                     <section id="navigation-menu7">
                         <ul id="menu7" class="menu">
                             <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
-                            <li><a href="#page7" data-transition="<?php echo $transitionefect ?>">About Us</a></li>
-                            <li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Individual Psychotherapy</a></li>
-                            <li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Martial Therapy</a></li>
-                            <li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Family Therapy</a></li>
-                            <li><a href="#page7" data-transition="<?php echo $transitionefect ?>">Psychological Testing</a></li>
+                            <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">About Us</a></li>
+                            <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Individual Psychotherapy</a></li>
+                            <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Martial Therapy</a></li>
+                            <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Family Therapy</a></li>
+                            <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Psychological Testing</a></li>
                             <li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
                         </ul>
                     </section>
